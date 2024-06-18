@@ -1,0 +1,20 @@
+{
+    "welcome": "Bienvenue dans notre application!",
+    "hello": "Bonjour, {{name}}!",
+    "home": "Maison",
+    "hero_header": "Des gens qui se soucient vraiment de votre entreprise",
+    "subscribe": "S'abonner",
+    "about": "About",
+    "contact": "à propos",
+    "blog": "Blogs",
+    "products": "des produits",
+    "men": "Hommes",
+    "women": "femmes",
+    "clothings": "vêtements",
+    "others": "autres",
+    "Jwelery": "Bijoux",
+    "electronics": "électronique",
+    "hero_banner_header": "Arrivées de la nouvelle saison",
+    "hero_description": "Il s'agit d'une carte plus large avec un texte à l'appui ci-dessous comme un naturel introduction à du contenu supplémentaire. Ce contenu est un peu plus long.",
+    "latest_product":"Derniers produits"
+}

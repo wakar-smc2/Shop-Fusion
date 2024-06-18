@@ -1,0 +1,20 @@
+{
+    "welcome": "Welcome to our app!",
+    "hello": "Hello, {{name}}!",
+    "home": "Home",
+    "hero_header": "People who really cares about your business",
+    "subscribe": "Subscribe",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blogs",
+    "products": "Products",
+    "men": "Men",
+    "women": "Women",
+    "clothings": "clothings",
+    "others": "Others",
+    "jwelery": "Jwelery",
+    "electronics": "Electronics",
+    "hero_banner_header": "New Season Arrivals",
+    "hero_description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
+    "latest_product": "Latest Products"
+}

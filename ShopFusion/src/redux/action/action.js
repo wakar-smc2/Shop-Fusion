@@ -1,0 +1,7 @@
+export const ADD_USER = "ADD_USER";
+
+export const ADD_CURRENT_USER = "ADD_CURRENT_USER";
+
+export const DEL_CURRENT_USER = "DEL_CURRENT_USER";
+
+export const UPDATE_CURRENT_USER = "UPDATE_CURRENT_USER";

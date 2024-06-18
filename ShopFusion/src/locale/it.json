@@ -1,0 +1,20 @@
+{
+    "welcome": "Benvenuto nella nostra app!!",
+    "hello": "Ciao, {{name}}!",
+    "home": "Casa",
+    "hero_header": "Persone che hanno davvero a cuore la tua attività",
+    "subscribe": "Sottoscrivi",
+    "about": "Di",
+    "contact": "Contatto",
+    "blog": "Blogs",
+    "products": "Products",
+    "men": "uomini",
+    "women": "donne",
+    "clothings": "indumenti",
+    "others": "altre",
+    "jwelery": "gioielleria",
+    "electronics": "elettronica",
+    "hero_banner_header": "Arrivi della nuova stagione",
+    "hero_description": "Questa è una carta più ampia con il testo di supporto sottostante come naturale condurre a contenuti aggiuntivi. Questo contenuto è un po' più a lungo.",
+    "latest_product":"Gli ultimi prodotti"
+}
